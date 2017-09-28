@@ -1,0 +1,62 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #800000;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: #87ceeb;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid #bbb;
+}
+li a:hover {
+    background-color: #FFD904;
+}
+.active {
+    background-color: white;
+    color: #800000;
+}
+
+
+
+
+.blue-background {
+    background-color: #87ceeb;
+  }
+   
+    .heading {
+      padding-top: 20px;
+      padding-bottom: 25px;
+    }
+    .displayed {
+         text-align:center;
+   display:block;}
+    
+    .badge-image {
+          
+      max-height: 100%;
+       max-width: 100%; 
+    }
+    .smaller-image {
+         
+      max-height: 100%;
+       max-width: 100%; 
+    }
+      .heading-text {
+    font-size: 50px;
+        
+  }
+     h2 {
+         padding-top: 20px;
+   padding-bottom: 25px;
+       font-size: 20px;
+       color: #FFD904;
+  }
+   
